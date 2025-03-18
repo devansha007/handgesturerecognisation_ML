@@ -1,0 +1,11 @@
+# Python specific
+*.pyc
+__pycache__/
+venv/
+*.env
+*.DS_Store
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
